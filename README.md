@@ -1,7 +1,7 @@
 <h3 align="left">Hi there 👋</h3>
 <h1 align="left">I'm Atanu Chakraborty</h1>
 
-<h4 align="left">Welcome to my GitHub! I'm a Software Engineer, living in 🇮🇳 India.</h4>
+<h5 align="left">Welcome to my GitHub! I'm a Software Engineer, living in 🇮🇳 India.</h5>
 
 <h3 align="left">🛠 Here are my tech stack:</h3>
 <p align="left">
@@ -47,5 +47,14 @@
     <img src="https://camo.githubusercontent.com/06d87016f6e575166fbab4931658f73530a95786375f68bdbbd724c2639b796d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426974636f696e2d4637393331413f7374796c653d666f722d7468652d6261646765266c6f676f3d626974636f696e266c6f676f436f6c6f723d7768697465" alt="BitCoin"/>
     <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
 </p>
+
+<br><br>
+  <hr style="width: 50%; height: 1px; background-color: #e1e4e8;">
+<div align="center" style="margin-top: 20px; border-top: 2px solid #e1e4e8; padding-top: 20px;">
+  <a href="https://github.com/98atanu/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=98atanu&layout=compact&bg_color=0d1117&text_color=ffffff" />
+  </a>
+</div>
+
 
 
