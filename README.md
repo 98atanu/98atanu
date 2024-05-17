@@ -1,7 +1,7 @@
 <h3 align="left">Hi there 👋</h3>
 <h1 align="left">I'm Atanu Chakraborty</h1>
 
-<h5 align="left">Welcome to my GitHub! I'm a Software Engineer, living in 🇮🇳 India.</h5>
+<h4 align="left" style="font : thin">Welcome to my GitHub! I'm a Software Engineer, living in 🇮🇳 India.</h4>
 
 <h3 align="left">🛠 Here are my tech stack:</h3>
 <p align="left">
