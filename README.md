@@ -23,15 +23,15 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://camo.githubusercontent.com/3fb5c666007b264dde797b2d7e258cae7f336848f3408cef902f04c6065cc146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL" />
+  <img src="https://camo.githubusercontent.com/84e0999fa027dedfb31a169d54da33fd98f9691c0b3aba4687a0e0a64cede44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL" />
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/sqlite-%2307406E.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-   <img src="https://camo.githubusercontent.com/72ce6e1d4c15c5e149563435c125c94963e05c92ae9efdb6fd2f9a21703d90c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41726475696e6f2d3030393739443f7374796c653d666f722d7468652d6261646765266c6f676f3d41726475696e6f266c6f676f436f6c6f723d7768697465" alt="Arduino"/>
+   <img src="https://camo.githubusercontent.com/9494badd49f215e4673767f9f52725d8401f36802aa41cc110be4b6917bf0d30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41726475696e6f2d3030393739443f7374796c653d666f722d7468652d6261646765266c6f676f3d41726475696e6f266c6f676f436f6c6f723d7768697465" alt="Arduino"/>
 </p>
 
 <p>
-  <img src="https://camo.githubusercontent.com/6ab9a496311bbfc4a89370680c1f76376fb5c2776a4a3daa8ae57b3c06aceac8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c53747564696f436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt="VsCode"/>
+  <img src="https://camo.githubusercontent.com/81db0d1df6274e70abce11d0d2cb7175aea98550e435b9ab37a884302a400ca0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c53747564696f436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt="VsCode"/>
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="Pycharm" />
   <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit" />
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" />
@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
     <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white" alt="Safari"/>
     <img src="https://img.shields.io/badge/duckduckgo-de5833?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="DuckDuckGo"/>
-    <img src="https://camo.githubusercontent.com/06d87016f6e575166fbab4931658f73530a95786375f68bdbbd724c2639b796d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426974636f696e2d4637393331413f7374796c653d666f722d7468652d6261646765266c6f676f3d626974636f696e266c6f676f436f6c6f723d7768697465" alt="BitCoin"/>
+    <img src="https://camo.githubusercontent.com/bad60c4c31769efbc149cd4d6c410bd362c1786332e034b0a4051e9c65d70027/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426974636f696e2d4637393331413f7374796c653d666f722d7468652d6261646765266c6f676f3d626974636f696e266c6f676f436f6c6f723d7768697465" alt="BitCoin"/>
     <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
 </p>
 
